@@ -9,11 +9,9 @@ Hello!
   + a
     + nice day ^^
     
-This is just a paragraph:
+This is just a paragraph
 
     printf("This is a code block");
-    
-This is not a code block.
 
 * * *
 
